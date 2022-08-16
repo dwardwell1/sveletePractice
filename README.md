@@ -1,4 +1,6 @@
 #Little rating app to learn some svelete
+See it run here:
+https://svelete-practice-er40uawme-dwardwell1.vercel.app/
 
 ---
 
